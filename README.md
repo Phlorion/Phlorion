@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Antisocial Captcha](https://github.com/Phlorion/AntisocialCaptcha)
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android**, **Java SpringBoot**, **ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
