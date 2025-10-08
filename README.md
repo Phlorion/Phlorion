@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm George</h1>
 <h3 align="center">Software Engineer in Training | Exploring the World of Data</h3>
 
-- 🔭 I’m currently working on [Antisocial Captcha](https://github.com/Phlorion/AntisocialCaptcha)
+- 🔭 I’m currently working on MoviesLibraryApp.
 
-- 🌱 I’m currently learning **Android**, **Java SpringBoot**, **ReactJS**
+- 🌱 I’m currently learning **C++**, **Java SpringBoot**, **ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
