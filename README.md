@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm George</h1>
 <p align="center">Pluh</p>
 
-- I’m currently working on MoviesLibraryApp.
+- I’m currently working on **Regtech - Detecting Capital Market Non-Compliance for Web Text**.
 
-- I’m currently learning **Java SpringBoot**, **ReactJS**
+- I’m currently learning **Java SpringBoot**, **ReactJS**, **Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
