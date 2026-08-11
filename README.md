@@ -3,7 +3,7 @@
 
 - I’m currently working on **Regtech - Detecting Capital Market Non-Compliance for Web Text**.
 
-- I’m currently learning **Java SpringBoot**, **ReactJS**, **Unity**
+- Currently improving my skills on **Software Development with Java**, **Web Scraping with Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
