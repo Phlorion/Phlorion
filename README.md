@@ -3,7 +3,7 @@
 
 - I’m currently working on **Regtech - Detecting Capital Market Non-Compliance for Web Text**.
 
-- Currently improving my skills on **Software Development**, **Web Scraping**
+- Improving my skills on **Software Development**, **Web Scraping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
